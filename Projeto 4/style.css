@@ -44,6 +44,7 @@ body {
 }
 .logo-2 img {
   border-radius: 35px;
+  box-shadow: #353638 1.5px 1.5px 8px;
 }
 .navbar h3 {
   display: none;
