@@ -122,11 +122,7 @@
     width: 80%;
     margin-left: 10%;
   }
-
-  .card-text {
-    margin: 0;
-  }
-
+  
   .botao-2 {
     display: block;
     margin-top: 4%;
@@ -195,6 +191,10 @@
   .card {
     width: 80%;
     margin-left: 10%;
+  }
+
+  .card-text {
+    margin: 0;
   }
 
   .botao-2 {
